@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+img{
+    border: 6px darkblue;
+    border-style: double;
+    width: 300px;
+}
+
+
+h1{
+    background-color:lightskyblue;
+    color: black;
+    border: darkblue 10px;
+    border-radius: 20px;
+    border-width: 50px;
+    border-style: outset;
+    text-align: center;
+}
+
+h3{
+    background-position: center;
+    background-color: whitesmoke;
+    border-style: dotted;
+    border-width: 6px;
+    text-align: center;
+    color: darkred;
+}
+
+p{
+    
+    color: whitesmoke;
+    text-align: left;
+}
